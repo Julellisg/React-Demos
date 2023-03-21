@@ -1,2 +1,4 @@
-# TicTacToe
-A basic TicTacToe game following the React demo at: https://react.dev/learn/tutorial-tic-tac-toe
+# React Demos
+| Project | Description |
+|---------|-------------|
+|TicTacToe|Game tutorial from the official React website.|
